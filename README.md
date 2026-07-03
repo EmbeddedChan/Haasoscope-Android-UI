@@ -12,3 +12,14 @@ Your feedback is especially appreciated on:
 3. Features or improvements you would like to see added.
 
 Thank you for helping improve this project!
+
+Developed and maintained by **EmbeddedChan**.
+
+## 📥 Download
+
+Last updated: 2026-06-20
+
+[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/Haasoscope-Android-UI/raw/main/apk/EC-FusionKit-v1.13.4.apk)
+
+
+This app is currently not available on Google Play.
