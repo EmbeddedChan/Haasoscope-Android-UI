@@ -19,12 +19,36 @@ Developed and maintained by **EmbeddedChan**.
 
 Last updated: 2026-07-03
 
-[Download EC-FusionKit-v1.13.4.apk](https://github.com/EmbeddedChan/HaasoscopePro-Android-UI/raw/main/apk/EC-FusionKit-v1.13.4.apk)
+[Download EC-FusionKit-v1.13.5.apk](https://github.com/EmbeddedChan/HaasoscopePro-Android-UI/raw/main/apk/EC-FusionKit-v1.13.5.apk)
 
 
 This app is currently not available on Google Play.
 
-
+```text
+EC FusionKit
+│
+│
+├── HaasoscopePro
+│
+├── WaveScope 
+│
+├── Terminals
+│   ├── USB Serial Terminal
+│   ├── BLE Serial Terminal
+│   ├── FTDI Serial Terminal(Dedicated to FTDI USB serial devices)
+│   └── SCPI Terminal
+│
+├── Network
+│   ├── UDP
+│   ├── TCP Client
+│   └── TCP Server
+│
+└── Utilities
+     ├── HEX/BIN/DEC
+     ├── FHex Editor
+     ├── Calculator
+     └── Text File Compare
+```
 
 ## 🖼 UI Preview
 
