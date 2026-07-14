@@ -62,6 +62,10 @@ EC FusionKit
 
 ## 📦 Version History
 
+### v1.13.5
+- Added dual-channel support.
+- Added full-screen mode.
+- Added persistence display.
 
 ### v1.13.4
 - Initial release
