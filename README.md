@@ -30,7 +30,7 @@ EC FusionKit
 │
 ├── HaasoscopePro
 │
-├── WaveScope(Agilent/KeySight)
+├── WaveScope(Agilent/KeySight bin viewer)
 │
 ├── Terminals
 │   ├── USB Serial Terminal
