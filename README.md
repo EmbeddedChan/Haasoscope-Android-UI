@@ -51,6 +51,7 @@ EC FusionKit
 ```
 
 ## 🖼 UI Preview
+![Screen 5](images/Screenshot_8.jpg)
 
 ![Screen 1](images/Screenshot_4.jpg)
 
@@ -61,6 +62,9 @@ EC FusionKit
 ![Screen 4](images/Screenshot_7.jpg)
 
 ## 📦 Version History
+
+### v1.13.6
+- Added FFT.
 
 ### v1.13.5
 - Added dual-channel support.
