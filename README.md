@@ -24,31 +24,6 @@ Last updated: 2026-07-19
 
 This app is currently not available on Google Play.
 
-```text
-EC FusionKit
-│
-│
-├── HaasoscopePro
-│
-├── WaveScope(Agilent/KeySight bin viewer)
-│
-├── Terminals
-│   ├── USB Serial Terminal
-│   ├── BLE Serial Terminal
-│   ├── FTDI Serial Terminal(Dedicated to FTDI USB serial devices)
-│   └── SCPI Terminal
-│
-├── Network
-│   ├── UDP
-│   ├── TCP Client
-│   └── TCP Server
-│
-└── Utilities
-     ├── HEX/BIN/DEC
-     ├── FHex Editor
-     ├── Calculator
-     └── Text File Compare
-```
 
 ## 🖼 UI Preview
 ![Screen 5](images/Screenshot_8.jpg)
